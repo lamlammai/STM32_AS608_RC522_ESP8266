@@ -1,0 +1,52 @@
+div.menungang {
+    background-color: #13d2b8;
+   
+    
+  }
+  div.menu {
+    margin-left: 400px;
+} 
+div.nen {
+    display: flex;
+    height: 120px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(211, 208, 207);
+}
+img.a1 {
+    height: 120px;
+    width: 50%;
+}
+img.a2 {
+    height: 120px;
+    width: 50%;
+}
+div.chia {
+    display: flex;
+}
+.container_swap{
+
+    width: 100%;
+    display: flex;
+    
+    }
+    
+    .div_left{
+    
+    width: 200px;
+    
+    float: left;
+    
+  
+    
+    }
+    
+    .div_right{
+    
+    width: 200px;
+    
+    float: left;
+ 
+
+    
+    }
